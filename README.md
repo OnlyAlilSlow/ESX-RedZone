@@ -49,6 +49,23 @@
 5. **Restart your server.**
 
 ---
+💡 How It Works
+Entering the redzone forces a weapon, gives infinite ammo, and puts the player into a private “bucket” for true FFA.
+
+Players can only see/fight others in the redzone.
+
+Kills are tracked; rewards are only given when the player dies or leaves the zone.
+
+Killstreaks are announced in chat (5, 10, 15, etc).
+
+Upon death, a respawn timer appears and the player is revived at a random zone point.
+
+---
+
+👤 Credits
+Script by OnlyAlilSlow
+
+---
 
 ## Example Config (config.lua)
 
@@ -75,29 +92,4 @@ Config.RespawnPoints = {
     vector3(-1411.407, -2806.361, 13.944),
     vector3(-1471.11, -2723.32, 13.94)
 }
-💡 How It Works
-Entering the redzone forces a weapon, gives infinite ammo, and puts the player into a private “bucket” for true FFA.
-
-Players can only see/fight others in the redzone.
-
-Kills are tracked; rewards are only given when the player dies or leaves the zone.
-
-Killstreaks are announced in chat (5, 10, 15, etc).
-
-Upon death, a respawn timer appears and the player is revived at a random zone point.
-
-🛠️ Support & Contributions
-Issues: Use the GitHub Issues tab
-
-PRs: Welcome!
-
-Contact: Open a discussion or send a DM for help.
-
-👤 Credits
-Script by OnlyAlilSlow
-
-yaml
-Copy
-Edit
-
 ---
