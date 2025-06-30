@@ -50,10 +50,10 @@
 
 ---
 
-## ⚙️ Configuration
-
-`config.lua` example:
-```lua
+Sample Config (config.lua):
+lua
+Copy
+Edit
 Config = {}
 
 Config.Zones = {
@@ -76,8 +76,6 @@ Config.RespawnPoints = {
     vector3(-1411.407, -2806.361, 13.944),
     vector3(-1471.11, -2723.32, 13.94)
 }
-```lua
-
 💡 How It Works
 Entering the redzone forces a weapon, gives infinite ammo, and puts the player into a private “bucket” for true FFA.
 
@@ -90,7 +88,7 @@ Killstreaks are announced in chat (5, 10, 15, etc).
 Upon death, a respawn timer appears and the player is revived at a random zone point.
 
 🛠️ Support & Contributions
-Issues: Use the GitHub Issues tab.
+Issues: Use the GitHub Issues tab
 
 PRs: Welcome!
 
@@ -99,8 +97,4 @@ Contact: Open a discussion or send a DM for help.
 👤 Credits
 Script by OnlyAlilSlow
 
-
----
-
-**Let me know if you want any details added or changed!**  
-You can also use this as your CFX post template.
+Let me know if you want this with custom icons, more markdown, or anything else!
