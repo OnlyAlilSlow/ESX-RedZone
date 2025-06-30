@@ -99,11 +99,6 @@ Contact: Open a discussion or send a DM for help.
 👤 Credits
 Script by OnlyAlilSlow
 
-Enjoy your new redzone! 🟥
-
-yaml
-Copy
-Edit
 
 ---
 
