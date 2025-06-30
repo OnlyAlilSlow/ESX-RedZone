@@ -76,7 +76,7 @@ Config.RespawnPoints = {
     vector3(-1411.407, -2806.361, 13.944),
     vector3(-1471.11, -2723.32, 13.94)
 }
-All options are explained in the config file comments.
+```lua
 
 💡 How It Works
 Entering the redzone forces a weapon, gives infinite ammo, and puts the player into a private “bucket” for true FFA.
