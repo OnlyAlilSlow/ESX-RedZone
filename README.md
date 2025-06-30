@@ -50,10 +50,9 @@
 
 ---
 
-Sample Config (config.lua):
-lua
-Copy
-Edit
+## Example Config (config.lua)
+
+```lua
 Config = {}
 
 Config.Zones = {
@@ -97,4 +96,8 @@ Contact: Open a discussion or send a DM for help.
 👤 Credits
 Script by OnlyAlilSlow
 
-Let me know if you want this with custom icons, more markdown, or anything else!
+yaml
+Copy
+Edit
+
+---
